@@ -179,11 +179,8 @@ The desktop application allows local inference without Kaggle.
 
 ### GUI Screenshot
 
-Add your screenshot here:
-
-```markdown
 ![GUI Screenshot](gui_screenshot.png)
-```
+
 
 ---
 
