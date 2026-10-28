@@ -20,6 +20,8 @@ It includes:
 
 The project was developed in **Kaggle** and then extended into a **local desktop application**.
 
+This is the notebook link in Kaggle : [License Plate Detection & Recognition](https://www.kaggle.com/code/idrisskh/license-plate-detection-recognition)
+
 ---
 
 ## Final Result
