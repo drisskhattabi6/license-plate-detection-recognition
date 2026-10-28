@@ -1,0 +1,28 @@
+# Automatic License Plate Detection and Recognition
+---- Models ------
+- https://www.kaggle.com/models/mohamedmohy10/automatic-license-plate-recognition-yolov8n/
+- https://www.kaggle.com/models/harshitsingh09/yolov8-license-plate-detector
+- https://huggingface.co/morsetechlab/yolov11-license-plate-detection
+- 
+----- Plate Detection --------
+- https://www.kaggle.com/code/ztrollk/license-plate-detection-with-yolov8
+- https://www.kaggle.com/code/itsasad66699/license-plate-detection-with-yolov8
+- https://www.kaggle.com/code/hanineiroukh/digital-image-processing-license-plate-detection
+- 
+- 
+----- Plate Recognetion -------
+- https://www.kaggle.com/code/elbegdarkhanbaatar/car-license-plate-detection-ocr
+- 
+- 
+------ Dataset ---------
+- https://www.kaggle.com/datasets/ronakgohil/license-plate-dataset/
+- https://www.kaggle.com/datasets/trainingdatapro/license-plates-1-209-438-ocr-plates
+- https://web.inf.ufpr.br/vri/databases/ufpr-alpr/
+- https://github.com/AvLab-CV/AOLP/tree/master
+- https://www.kaggle.com/datasets/aslanahmedov/number-plate-detection
+- https://www.kaggle.com/datasets/nimishshandilya/car-number-plate-video
+- https://www.kaggle.com/datasets/andrewmvd/car-plate-detection
+- https://www.kaggle.com/datasets/abdelhamidzakaria/european-license-plates-dataset
+- https://www.kaggle.com/datasets/piotrstefaskiue/poland-vehicle-license-plate-dataset
+- 
+- 

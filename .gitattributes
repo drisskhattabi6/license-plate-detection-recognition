@@ -1,0 +1,4 @@
+Notebooks/License-Plate-Detection-and-Recognition.ipynb filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+*.pdiparams filter=lfs diff=lfs merge=lfs -text
